@@ -123,5 +123,6 @@ Para mais detalhes, acesse o [Manual de Instruções](https://docs.google.com/do
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
 <a property="dct:title" rel="cc:attributionURL" href="https://github.com/Inteli-College/2024-2B-T12-IN04-G05">Projeto de Monitoramento IoT</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Inteli-College/2024-2B-T12-IN04-G05">Ana Beggiato, Eduardo Rizk, Igor Sampaio Silva, Larissa Martins, Pedro Haouli, Raphael Felipe Silva, Ryan Botelho Gartlan</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank"
-#   I P T - I o T - l a b o r a t o r i o  
+#   I P T - I o T - l a b o r a t o r i o 
+ 
  
